@@ -1,5 +1,19 @@
 [
   {
+    "id": "task-1766063305995-ocxyu7j",
+    "title": "ir lavar o carro",
+    "description": "ir lavar o carro",
+    "status": "todo",
+    "priority": "low",
+    "category": "personal",
+    "createdAt": "2025-12-18T13:08:25.995Z",
+    "updatedAt": "2025-12-18T13:08:25.995Z",
+    "dueDate": "2025-12-18",
+    "tags": [],
+    "repository": "paulojorgebranco/x-posts-archive",
+    "branch": "main"
+  },
+  {
     "id": "task-1766062839761-th5uhys",
     "title": "qwqwq",
     "status": "todo",

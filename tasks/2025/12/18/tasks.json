@@ -1,5 +1,17 @@
 [
   {
+    "id": "task-1766063346478-x9jdsdx",
+    "title": "Comprar luvas",
+    "status": "todo",
+    "priority": "urgent",
+    "category": "work",
+    "createdAt": "2025-12-18T13:09:06.478Z",
+    "updatedAt": "2025-12-18T13:09:06.478Z",
+    "tags": [],
+    "repository": "paulojorgebranco/x-posts-archive",
+    "branch": "main"
+  },
+  {
     "id": "task-1766063305995-ocxyu7j",
     "title": "ir lavar o carro",
     "description": "ir lavar o carro",
